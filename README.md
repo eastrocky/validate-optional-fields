@@ -4,9 +4,7 @@ A demonstration on validating user input with optional fields
 ## Running the Server
 ```zsh
 git clone https://github.com/eastrocky/validate-optional-fields.git
-
 go build
-
 ./validate-optional-fields
 ```
 
